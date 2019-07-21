@@ -1,5 +1,5 @@
 {
-    "name": "bob/bolt-assets",
+    "name": "bolt/bolt-assets",
     "description": "Assets used in Bolt's backend. Don't use directly.",
     "type": "library",
     "license": "MIT",
