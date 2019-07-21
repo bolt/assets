@@ -1,0 +1,13 @@
+{
+    "name": "bob/bolt-assets",
+    "description": "Assets used in Bolt's backend. Don't use directly.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bob den Otter",
+            "email": "bob@twokings.nl"
+        }
+    ],
+    "require": {}
+}
