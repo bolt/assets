@@ -1,6 +1,6 @@
 {
     "name": "bolt/assets",
-    "description": "🛠 Assets used in Bolt's backend. Don't use directly.",
+    "description": "🛠 Assets used in Bolt's backend. Do not use directly.",
     "type": "library",
     "license": "MIT",
     "authors": [
