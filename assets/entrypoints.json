@@ -10,6 +10,12 @@
         "/assets/bolt.js"
       ]
     },
+    "zxcvbn": {
+      "js": [
+        "/assets/1.js",
+        "/assets/zxcvbn.js"
+      ]
+    },
     "theme-default": {
       "css": [
         "/assets/theme-default.css"
