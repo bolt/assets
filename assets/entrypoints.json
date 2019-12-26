@@ -12,8 +12,14 @@
     },
     "zxcvbn": {
       "js": [
-        "/assets/1.js",
+        "/assets/2.js",
         "/assets/zxcvbn.js"
+      ]
+    },
+    "vibrant": {
+      "js": [
+        "/assets/1.js",
+        "/assets/vibrant.js"
       ]
     },
     "theme-default": {

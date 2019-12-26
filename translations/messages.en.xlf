@@ -2040,7 +2040,7 @@
     <unit id="0C9.Vmh" name="collection.add_item">
       <segment>
         <source>collection.add_item</source>
-        <target>Add item</target>
+        <target>Add item to %name%</target>
       </segment>
     </unit>
     <unit id="ApPu4P_" name="collection.move_item_up">
@@ -2083,6 +2083,18 @@
       <segment>
         <source>pager.previous</source>
         <target>Previous</target>
+      </segment>
+    </unit>
+    <unit id="7aSD0Qr" name="image.button_up">
+      <segment>
+        <source>image.button_up</source>
+        <target>Up</target>
+      </segment>
+    </unit>
+    <unit id="WihD8Y5" name="image.button_down">
+      <segment>
+        <source>image.button_down</source>
+        <target>Down</target>
       </segment>
     </unit>
   </file>
