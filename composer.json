@@ -1,6 +1,6 @@
 {
     "name": "bolt/assets",
-    "description": "🛠 Assets used in Bolt's backend. Do not use directly.",
+    "description": "🛠 Javascript and CSS Assets used in Bolt's backend. Do not `require` directly.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -10,8 +10,8 @@
         }
     ],
     "require-dev": {
-        "bolt/core": "^4.0.0"
+        "bolt/core": "^5.0.5"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
