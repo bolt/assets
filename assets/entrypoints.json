@@ -2,44 +2,44 @@
   "entrypoints": {
     "bolt": {
       "css": [
-        "/assets/8.css",
-        "/assets/bolt.css"
+        "/assets/865.292ac7da.css",
+        "/assets/bolt.9319d011.css"
       ],
       "js": [
-        "/assets/8.js",
-        "/assets/bolt.js"
+        "/assets/865.edece2d5.js",
+        "/assets/bolt.d63701c6.js"
       ]
     },
     "zxcvbn": {
       "js": [
-        "/assets/322.js",
-        "/assets/zxcvbn.js"
+        "/assets/322.428c1892.js",
+        "/assets/zxcvbn.f0192892.js"
       ]
     },
     "vibrant": {
       "js": [
-        "/assets/82.js",
-        "/assets/vibrant.js"
+        "/assets/82.5a0f4960.js",
+        "/assets/vibrant.20f4a881.js"
       ]
     },
     "theme-default": {
       "css": [
-        "/assets/theme-default.css"
+        "/assets/theme-default.31d6cfe0.css"
       ]
     },
     "theme-light": {
       "css": [
-        "/assets/theme-light.css"
+        "/assets/theme-light.cbcf1be9.css"
       ]
     },
     "theme-dark": {
       "css": [
-        "/assets/theme-dark.css"
+        "/assets/theme-dark.1f673f28.css"
       ]
     },
     "theme-woordpers": {
       "css": [
-        "/assets/theme-woordpers.css"
+        "/assets/theme-woordpers.cbcf1be9.css"
       ]
     }
   }
