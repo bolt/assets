@@ -7,8 +7,8 @@
   "assets/theme-light.css": "/assets/theme-light.css",
   "assets/theme-dark.css": "/assets/theme-dark.css",
   "assets/theme-woordpers.css": "/assets/theme-woordpers.css",
-  "assets/142.css": "/assets/142.css",
-  "assets/142.js": "/assets/142.js",
+  "assets/8.css": "/assets/8.css",
+  "assets/8.js": "/assets/8.js",
   "assets/82.js": "/assets/82.js",
   "assets/322.js": "/assets/322.js",
   "assets/images/fa-solid-900.svg": "/assets/images/fa-solid-900.7a8b4f13.svg",
@@ -63,7 +63,6 @@
   "assets/images/na.svg": "/assets/images/na.259bbc51.svg",
   "assets/images/pm.svg": "/assets/images/pm.76d0f494.svg",
   "assets/images/ac.svg": "/assets/images/ac.8ee90af7.svg",
-  "assets/images/ab.svg": "/assets/images/ab.ba0a26f9.svg",
   "assets/images/me.svg": "/assets/images/me.821edbe5.svg",
   "assets/images/lk.svg": "/assets/images/lk.c2c17430.svg",
   "assets/favicon/android-icon-36x36.png": "/assets/favicon/android-icon-36x36.png",
@@ -316,6 +315,5 @@
   "assets/images/gb-eng.svg": "/assets/images/gb-eng.fa11359a.svg",
   "assets/images/fi.svg": "/assets/images/fi.95d56fd9.svg",
   "assets/images/jp.svg": "/assets/images/jp.11cbe24d.svg",
-  "assets/images/fa.svg": "/assets/images/fa.c27231dd.svg",
   "assets/favicon/browserconfig.xml": "/assets/favicon/browserconfig.xml"
 }
