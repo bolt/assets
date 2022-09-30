@@ -63,7 +63,6 @@
   "assets/images/na.svg": "/assets/images/na.259bbc51.svg",
   "assets/images/pm.svg": "/assets/images/pm.76d0f494.svg",
   "assets/images/ac.svg": "/assets/images/ac.8ee90af7.svg",
-  "assets/images/ab.svg": "/assets/images/ab.ba0a26f9.svg",
   "assets/images/me.svg": "/assets/images/me.821edbe5.svg",
   "assets/images/lk.svg": "/assets/images/lk.c2c17430.svg",
   "assets/favicon/android-icon-36x36.png": "/assets/favicon/android-icon-36x36.png",
@@ -175,6 +174,7 @@
   "assets/images/vc.svg": "/assets/images/vc.57b3400e.svg",
   "assets/images/do.svg": "/assets/images/do.f581c0c2.svg",
   "assets/favicon/favicon.ico": "/assets/favicon/favicon.ico",
+  "assets/images/ab.svg": "/assets/images/ab.7580bd38.svg",
   "assets/images/jm.svg": "/assets/images/jm.0937cdd5.svg",
   "assets/images/sy.svg": "/assets/images/sy.bf8fe33c.svg",
   "assets/images/ve.svg": "/assets/images/ve.3f7f1f58.svg",
@@ -185,6 +185,7 @@
   "assets/images/gl.svg": "/assets/images/gl.450aef48.svg",
   "assets/images/jo.svg": "/assets/images/jo.57617d38.svg",
   "assets/images/tj.svg": "/assets/images/tj.1eca8482.svg",
+  "assets/images/fa.svg": "/assets/images/fa.06396a2a.svg",
   "assets/images/dz.svg": "/assets/images/dz.87faa292.svg",
   "assets/images/tk.svg": "/assets/images/tk.86766803.svg",
   "assets/images/tl.svg": "/assets/images/tl.5b5b8543.svg",
@@ -316,6 +317,5 @@
   "assets/images/gb-eng.svg": "/assets/images/gb-eng.fa11359a.svg",
   "assets/images/fi.svg": "/assets/images/fi.95d56fd9.svg",
   "assets/images/jp.svg": "/assets/images/jp.11cbe24d.svg",
-  "assets/images/fa.svg": "/assets/images/fa.c27231dd.svg",
   "assets/favicon/browserconfig.xml": "/assets/favicon/browserconfig.xml"
 }
