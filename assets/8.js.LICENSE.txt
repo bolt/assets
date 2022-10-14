@@ -16,7 +16,7 @@
  */
 
 /*!
- * Vue.js v2.7.10
+ * Vue.js v2.7.13
  * (c) 2014-2022 Evan You
  * Released under the MIT License.
  */
@@ -124,7 +124,7 @@
  */
 
 /**! 
- * hotkeys-js v3.9.5 
+ * hotkeys-js v3.10.0 
  * A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. 
  * 
  * Copyright (c) 2022 kenny wong <wowohoo@qq.com> 
