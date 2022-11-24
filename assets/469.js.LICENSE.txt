@@ -1,5 +1,5 @@
 /*!
-  * Bootstrap v5.2.2 (https://getbootstrap.com/)
+  * Bootstrap v5.2.3 (https://getbootstrap.com/)
   * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
@@ -98,7 +98,7 @@
  */
 
 /**! 
- * hotkeys-js v3.10.0 
+ * hotkeys-js v3.10.1 
  * A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. 
  * 
  * Copyright (c) 2022 kenny wong <wowohoo@qq.com> 
