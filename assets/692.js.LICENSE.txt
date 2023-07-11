@@ -1,19 +1,8 @@
 /*!
-  * Bootstrap v4.6.2 (https://getbootstrap.com/)
+  * Bootstrap v5.2.3 (https://getbootstrap.com/)
   * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
-
-/*!
- * Sizzle CSS Selector Engine v2.3.9
- * https://sizzlejs.com/
- *
- * Copyright JS Foundation and other contributors
- * Released under the MIT license
- * https://js.foundation/
- *
- * Date: 2022-12-19
- */
 
 /*!
  * Vue.js v2.7.14
@@ -29,17 +18,21 @@
  */
 
 /*!
- * jQuery JavaScript Library v3.6.3
- * https://jquery.com/
+ * clipboard.js v2.0.11
+ * https://clipboardjs.com/
  *
- * Includes Sizzle.js
- * https://sizzlejs.com/
+ * Licensed MIT © Zeno Rocha
+ */
+
+/*!
+ * jQuery JavaScript Library v3.7.0
+ * https://jquery.com/
  *
  * Copyright OpenJS Foundation and other contributors
  * Released under the MIT license
  * https://jquery.org/license
  *
- * Date: 2022-12-20T21:28Z
+ * Date: 2023-05-11T18:29Z
  */
 
 /*!
@@ -63,14 +56,6 @@
     PERFORMANCE OF THIS SOFTWARE.
     ***************************************************************************** */
 
-/*! @preserve
- * bootbox.js
- * version: 5.5.2
- * author: Nick Payne <nick@kurai.co.uk>
- * license: MIT
- * http://bootboxjs.com/
- */
-
 /**
  * @license
  * Lodash <https://lodash.com/>
@@ -81,39 +66,14 @@
  */
 
 /**
- * Trumbowyg v2.26.0 - A lightweight WYSIWYG editor
+ * Trumbowyg v2.27.3 - A lightweight WYSIWYG editor
  * Trumbowyg core file
  * ------------------------
- * @link http://alex-d.github.io/Trumbowyg
+ * @link https://alex-d.github.io/Trumbowyg/
  * @license MIT
  * @author Alexandre Demode (Alex-D)
  *         Twitter : @AlexandreDemode
  *         Website : alex-d.fr
- */
-
-/**!
- * @fileOverview Kickass library to create and place poppers near their reference elements.
- * @version 1.16.1
- * @license
- * Copyright (c) 2016 Federico Zivolo and contributors
- *
- * Permission is hereby granted, free of charge, to any person obtaining a copy
- * of this software and associated documentation files (the "Software"), to deal
- * in the Software without restriction, including without limitation the rights
- * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
- * copies of the Software, and to permit persons to whom the Software is
- * furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice shall be included in all
- * copies or substantial portions of the Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
- * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
- * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
- * SOFTWARE.
  */
 
 /**!
@@ -124,10 +84,10 @@
  */
 
 /**! 
- * hotkeys-js v3.10.1 
+ * hotkeys-js v3.11.2 
  * A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. 
  * 
- * Copyright (c) 2022 kenny wong <wowohoo@qq.com> 
- * http://jaywcjlove.github.io/hotkeys 
+ * Copyright (c) 2023 kenny wong <wowohoo@qq.com> 
+ * https://jaywcjlove.github.io/hotkeys-js 
  * Licensed under the MIT license 
  */
