@@ -1,12 +1,12 @@
 /*!
-  * Bootstrap v5.2.3 (https://getbootstrap.com/)
-  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Bootstrap v5.3.2 (https://getbootstrap.com/)
+  * Copyright 2011-2023 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 
 /*!
- * Vue.js v2.7.14
- * (c) 2014-2022 Evan You
+ * Vue.js v2.7.15
+ * (c) 2014-2023 Evan You
  * Released under the MIT License.
  */
 
@@ -84,10 +84,13 @@
  */
 
 /**! 
- * hotkeys-js v3.12.0 
+ * hotkeys-js v3.13.3 
  * A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. 
  * 
  * Copyright (c) 2023 kenny wong <wowohoo@qq.com> 
- * https://jaywcjlove.github.io/hotkeys-js 
+ * https://github.com/jaywcjlove/hotkeys-js.git 
+ * 
+ * @website: https://jaywcjlove.github.io/hotkeys-js
+ 
  * Licensed under the MIT license 
  */
