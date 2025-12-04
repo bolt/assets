@@ -10,7 +10,7 @@
         }
     ],
     "require-dev": {
-        "bolt/core": "^5.0.6"
+        "bolt/core": "^6.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
