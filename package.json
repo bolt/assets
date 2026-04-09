@@ -1,6 +1,6 @@
 {
     "name": "bolt",
-    "version": "6.0.1",
+    "version": "6.0.2",
     "homepage": "https://boltcms.io",
     "author": "Bob den Otter <bob@twokings.nl> (https://boltcms.io)",
     "license": "MIT",
@@ -32,7 +32,7 @@
     "dependencies": {
         "@popperjs/core": "^2.11.8",
         "@vue/cli-service": "^4.5.19",
-        "axios": "^1.12.0",
+        "axios": "^1.13.5",
         "baguettebox.js": "^1.11.1",
         "bootstrap": "5.3.*",
         "browserslist": "^4.22.1",
@@ -42,7 +42,7 @@
         "flagpack-dart-sass": "^1.4.0",
         "hotkeys-js": "^3.12.0",
         "jquery": "^3.7.1",
-        "locutus": "^2.0.16",
+        "locutus": "^2.0.39",
         "luxon": "^1.28.1",
         "no-scroll": "^2.1.1",
         "node-vibrant": "^3.1.6",

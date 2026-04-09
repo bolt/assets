@@ -2,23 +2,23 @@
   "entrypoints": {
     "bolt": {
       "css": [
-        "/assets/735.css",
+        "/assets/404.css",
         "/assets/bolt.css"
       ],
       "js": [
-        "/assets/735.js",
+        "/assets/404.js",
         "/assets/bolt.js"
       ]
     },
     "zxcvbn": {
       "js": [
-        "/assets/322.js",
+        "/assets/65.js",
         "/assets/zxcvbn.js"
       ]
     },
     "vibrant": {
       "js": [
-        "/assets/82.js",
+        "/assets/866.js",
         "/assets/vibrant.js"
       ]
     },
