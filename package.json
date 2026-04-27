@@ -1,6 +1,6 @@
 {
     "name": "bolt",
-    "version": "6.1.1",
+    "version": "6.1.2",
     "homepage": "https://boltcms.io",
     "author": "Bob den Otter <bob@twokings.nl> (https://boltcms.io)",
     "license": "MIT",
@@ -31,7 +31,6 @@
     },
     "dependencies": {
         "@popperjs/core": "^2.11.8",
-        "@vue/cli-service": "^4.5.19",
         "axios": "^1.15.0",
         "baguettebox.js": "^1.11.1",
         "bootstrap": "5.3.*",
