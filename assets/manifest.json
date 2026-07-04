@@ -7,8 +7,8 @@
   "assets/theme-light.css": "/assets/theme-light.css",
   "assets/theme-dark.css": "/assets/theme-dark.css",
   "assets/theme-woordpers.css": "/assets/theme-woordpers.css",
-  "assets/404.css": "/assets/404.css",
-  "assets/404.js": "/assets/404.js",
+  "assets/790.css": "/assets/790.css",
+  "assets/790.js": "/assets/790.js",
   "assets/866.js": "/assets/866.js",
   "assets/65.js": "/assets/65.js",
   "assets/images/fa-solid-900.svg": "/assets/images/fa-solid-900.7a8b4f13.svg",
@@ -22,7 +22,7 @@
   "assets/favicon/ms-icon-310x310.png": "/assets/favicon/ms-icon-310x310.png",
   "assets/fonts/fa-regular-400.eot": "/assets/fonts/fa-regular-400.77206a6b.eot",
   "assets/fonts/fa-regular-400.ttf": "/assets/fonts/fa-regular-400.491974d1.ttf",
-  "assets/images/icons.svg": "/assets/images/icons.5cc8281c.svg",
+  "assets/images/icons.svg": "/assets/images/icons.1fc6296b.svg",
   "assets/images/404-image.png": "/assets/images/404-image.png",
   "assets/favicon/apple-icon-180x180.png": "/assets/favicon/apple-icon-180x180.png",
   "assets/fonts/fa-regular-400.woff": "/assets/fonts/fa-regular-400.bb58e57c.woff",
@@ -247,7 +247,7 @@
   "assets/images/tw.svg": "/assets/images/tw.ccec3b05.svg",
   "assets/images/pr.svg": "/assets/images/pr.c6f586df.svg",
   "assets/images/cl.svg": "/assets/images/cl.906746c7.svg",
-  "assets/images/mr.svg": "/assets/images/mr.af237422.svg",
+  "assets/images/de-si.svg": "/assets/images/de-si.af27ad7d.svg",
   "assets/images/mt.svg": "/assets/images/mt.578056d9.svg",
   "assets/images/gt.svg": "/assets/images/gt.482ed86f.svg",
   "assets/images/ge.svg": "/assets/images/ge.cd98160c.svg",
@@ -317,5 +317,7 @@
   "assets/images/gb-eng.svg": "/assets/images/gb-eng.fa11359a.svg",
   "assets/images/fi.svg": "/assets/images/fi.95d56fd9.svg",
   "assets/images/jp.svg": "/assets/images/jp.11cbe24d.svg",
-  "assets/favicon/browserconfig.xml": "/assets/favicon/browserconfig.xml"
+  "assets/images/mr.svg": "/assets/images/mr.7e214393.svg",
+  "assets/favicon/browserconfig.xml": "/assets/favicon/browserconfig.xml",
+  "assets/images/eo.svg": "/assets/images/eo.5631affa.svg"
 }

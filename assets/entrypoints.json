@@ -2,11 +2,11 @@
   "entrypoints": {
     "bolt": {
       "css": [
-        "/assets/404.css",
+        "/assets/790.css",
         "/assets/bolt.css"
       ],
       "js": [
-        "/assets/404.js",
+        "/assets/790.js",
         "/assets/bolt.js"
       ]
     },

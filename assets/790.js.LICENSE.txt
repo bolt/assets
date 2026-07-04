@@ -1,11 +1,11 @@
 /*!
-  * Bootstrap v5.3.2 (https://getbootstrap.com/)
-  * Copyright 2011-2023 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Bootstrap v5.3.8 (https://getbootstrap.com/)
+  * Copyright 2011-2025 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
   */
 
 /*!
- * Vue.js v2.7.15
+ * Vue.js v2.7.16
  * (c) 2014-2023 Evan You
  * Released under the MIT License.
  */
@@ -13,7 +13,7 @@
 /*!
  * baguetteBox.js
  * @author  feimosi
- * @version 1.11.1
+ * @version 1.13.0
  * @url https://github.com/feimosi/baguetteBox.js
  */
 
@@ -66,7 +66,7 @@
  */
 
 /**
- * Trumbowyg v2.27.3 - A lightweight WYSIWYG editor
+ * Trumbowyg v2.31.0 - A lightweight WYSIWYG editor
  * Trumbowyg core file
  * ------------------------
  * @link https://alex-d.github.io/Trumbowyg/
@@ -84,10 +84,10 @@
  */
 
 /**! 
- * hotkeys-js v3.13.3 
+ * hotkeys-js v3.13.15 
  * A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies. 
  * 
- * Copyright (c) 2023 kenny wong <wowohoo@qq.com> 
+ * Copyright (c) 2025 kenny wong <wowohoo@qq.com> 
  * https://github.com/jaywcjlove/hotkeys-js.git 
  * 
  * @website: https://jaywcjlove.github.io/hotkeys-js
