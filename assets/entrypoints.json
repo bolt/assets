@@ -18,7 +18,6 @@
     },
     "vibrant": {
       "js": [
-        "/assets/866.js",
         "/assets/vibrant.js"
       ]
     },
